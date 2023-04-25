@@ -1,2 +1,2 @@
-# HTML CSS JS
+# Funny webpage created using html
  
